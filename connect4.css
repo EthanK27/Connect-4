@@ -1,0 +1,22 @@
+/* Styling for the board and overall layout */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: white;
+}
+
+/* Styling for the game board */
+#board {
+    /* size of board */
+    height: 540px;
+    width: 630px;
+
+    /* Color of board */
+    background-color: #0033FF;
+    border: 8px solid #000099;
+    
+    /* Centers board */
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+}
