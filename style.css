@@ -12,8 +12,8 @@ body {
     width: 630px;
 
     /* Color of board */
-    background-color: #0033FF;
-    border: 8px solid #000099;
+    background-color: #00aaaa;
+    border: 8px solid teal;
     
     /* Centers board */
     margin: 0 auto;
@@ -31,7 +31,7 @@ body {
     /* Color of tiles */
     background-color: white;
     border-radius: 50%;
-    border: 5px solid #000099;
+    border: 5px solid teal;
 }
 
 /* Style for maroon piece */
